@@ -6,6 +6,6 @@
 	Produced Report and dashboard to present trends in data. 
 	Created HLD, LLD and Architecture design documents. 
 
-##Skills Utilized – 
+## Skills Utilized – 
 Python, Excel, Power BI, Data Extraction, Data Transformation, Data Load, Data Visualization, Power point.
 
